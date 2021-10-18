@@ -19,7 +19,7 @@
 
 
 
-### Note HOW to find userID, courseName and courseID
+# Note HOW to find userID, courseName and courseID
 
 - Login Into coursera website first
 
