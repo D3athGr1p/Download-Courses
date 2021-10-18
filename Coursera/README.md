@@ -9,7 +9,7 @@
 - search and replace `true` with `""`.
 - search and replace `false` with `""`.
 
-- remove `,"paging":{},"linked":{}` at the and of the response
+- remove `,"paging":{},"linked":{}` at the end of the response
 
 - store this link into variable = `link`
 
@@ -19,7 +19,7 @@
 
 
 
-> Note HOW to find userID, courseName and courseID
+### Note HOW to find userID, courseName and courseID
 
 - Login Into coursera website first
 
