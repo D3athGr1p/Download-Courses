@@ -3,6 +3,8 @@
 
 - url = `https://www.coursera.org/api/guidedCourseSessionProgresses.v1?ids={userID}~{courseName}&fields=courseId,courseProgressState,currentWeekByUserProgress,endedAt,hasSessionModuleDeadlines,id,startedAt,weeks,onDemandCoursePresentGrades.v1`
 
+- serach this entire `url` on google.
+
 - copy all the response from this url and open it in vs code.
 - search and replace `true` with `""`.
 - search and replace `false` with `""`.
