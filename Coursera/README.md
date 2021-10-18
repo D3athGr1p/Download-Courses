@@ -25,7 +25,7 @@
 
 > For userID
 
-- Press `F12` Key and you will find network tab is opened refresh the page and wait until all Containe is loaded Now press `ctrl+f` and paste `userId` and there is little refresh logo. do not refresh the page.
+- Press `F12` Key and you will find network tab is opened refresh the page and wait until all Containe is loaded Now press `ctrl+f` and paste `userId` and there is little refresh logo prees that do not refresh the page.
 
 - You will find `userId` = `123456` copy this number and set it into `userID`.
 
@@ -39,6 +39,6 @@
 
 > For courseID
 
-- Press `F12` Key and you will find network tab is opened refresh the page and wait until all Containe is loaded Now press `ctrl+f` and paste `courseid` and there is little refresh logo. do not refresh the page.
+- Press `F12` Key and you will find network tab is opened refresh the page and wait until all Containe is loaded Now press `ctrl+f` and paste `courseid` and there is little refresh logo prees that do not refresh the page.
 
 - You will find `courseid` = `123456` copy this number and set it into `courseID`.
